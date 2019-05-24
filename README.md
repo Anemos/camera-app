@@ -2,6 +2,6 @@
 > #### 참조사이트 => https://blog.prototypr.io/make-a-camera-web-app-tutorial-part-1-ec284af8dddf
 
 * 1단계
- - 2단계
-  + 3단계
-   = 4단계
+  - 2단계
+    + 3단계
+      = 4단계
