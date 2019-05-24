@@ -10,7 +10,7 @@
 > javascript 
 
 [link keyword][id]
-[id]: URL "Optional Title here"
+[id]: http://www.naver.com "Optional Title here"
 
 Link: [Google][googlelink]
 [googlelink]: https://google.com "Go google"
