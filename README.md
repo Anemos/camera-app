@@ -22,5 +22,5 @@ __double underscores__
 ++underline++
 ~~cancelline~~
 
-![Alt text](/path/to/img.jpg)
+![Alt text](/logo.png)
 ![Alt text](/path/to/img.jpg "Optional title")<img width="" height=""></img>
